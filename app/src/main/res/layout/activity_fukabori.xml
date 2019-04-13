@@ -11,7 +11,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
-            android:text="Name"
             android:ems="10"
             android:id="@+id/why" android:layout_marginBottom="8dp"
             app:layout_constraintBottom_toTopOf="@+id/guideline4"
@@ -20,7 +19,7 @@
             app:layout_constraintTop_toTopOf="@+id/guideline5" android:layout_marginStart="8dp"
             app:layout_constraintStart_toStartOf="parent"/>
     <TextView
-            android:text="なぜ？"
+            android:text="何をしたいの？"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/Naze" app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
